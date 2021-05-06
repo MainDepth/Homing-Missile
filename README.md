@@ -1,7 +1,7 @@
 # Homing-Missile
 This is a script that will allow you to make a simple physics based homing missile.
 
-The settings which i foun to be optimal are as follows
+The settings which i found to be optimal are as follows
 
 Rocket mass: 100
 
